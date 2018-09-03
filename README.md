@@ -23,7 +23,7 @@ PC: 4000
 
 ## Actividad 4: Pixel Azul (Fondo)
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 01 00 C0 18 FE
 ```
 PC: 4000
 
